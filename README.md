@@ -14,6 +14,10 @@
   <a href="https://linkedin.com/in/christopher-asin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christopher-asin" height="30" width="40" /></a>
 </p>
 
+<div align="center">  
+  <a href="https://github.com/RiperPro03" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiperPro03&layout=compact&theme=dracula&hide_border=true" /></a>  
+</div>
+
 
 ## My Skill Set  
 
@@ -92,10 +96,6 @@
 <br/>
 <div align="center">  
   <a href="https://github.com/RiperPro03" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RiperPro03&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a>
-</div>
-
-<div align="center">  
-  <a href="https://github.com/RiperPro03" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiperPro03&layout=compact&theme=dracula&hide_border=true" /></a>  
 </div>
 
 <div align="center">  
