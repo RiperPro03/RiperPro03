@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riperpro03&label=Profile%20views&color=0e75b6&style=flat" alt="riperpro03" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riperpro03" alt="riperpro03" /></a> </p>
-
-- 🔭 I’m currently working on **Node.JS Project**
+- 🔭 I’m currently working on **.NET 10 Project**
 
 - 🌱 I’m currently learning **computer science at CESI Toulouse**
 
@@ -13,10 +11,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/christopher-asin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christopher-asin" height="30" width="40" /></a>
 </p>
-
-<div align="center">  
-  <a href="https://github.com/RiperPro03" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiperPro03&layout=compact&theme=dracula&hide_border=true" /></a>  
-</div>
 
 
 ## My Skill Set  
@@ -44,7 +38,7 @@
 ### Frameworks et Outils de Développement
 <div align="center">
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50"/></a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50"/></a> 
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" alt="flask" width="50" height="50"/></a> 
   <a href="https://symfony.com" target="_blank"><img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="50" height="50"/></a> 
   <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="50" height="50"/></a> 
 </div>
@@ -92,11 +86,6 @@
 </table>
 
 
-
-<br/>
-<div align="center">  
-  <a href="https://github.com/RiperPro03" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RiperPro03&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a>
-</div>
 
 <div align="center">  
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riperpro03&" alt="riperpro03" /></p>
