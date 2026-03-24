@@ -108,5 +108,9 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riperpro03&" alt="riperpro03" /></p>
 </div>
 
+<div align="center">  
+<a href="https://github.com/RiperPro03" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiperPro03&layout=compact&theme=dracula&hide_border=true" /></a>  
+</div>
+
 <br/>  
 
